@@ -6,7 +6,8 @@ Dataset description is attached.
 It's a Regression Problem ( Prediction of a value ), and we'll use Machine Learning to tackle it.
 
 We will do the following steps in this notebook.
-
+### Data Exploration:
+### Data Visualization:
 ### Data Preprocessing :
 
 Handling missing values
