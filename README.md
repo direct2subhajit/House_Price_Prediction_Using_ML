@@ -526,7 +526,7 @@ SaleCondition: Condition of sale
        Family	Sale between family members
        Partial	Home was not completed when last assessed (associated with New Homes)
 
-
+## Project Description:
 **The goal of this Project is :** given some features of a house ( LotFrontage, LotArea, Alley ... ), the model will predict the Sale Price of the house.
 Dataset description is attached.
 
